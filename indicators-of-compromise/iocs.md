@@ -21,7 +21,7 @@ and threat-hunting activities.
 | Indicator Type | Value | Description |
 |---------------|-------|-------------|
 | Malicious File | `image.jpg.php` | PHP payload disguised as image |
-| Web Shell | `c99.php` | Remote command execution tool |
+| Web Shell | `image.jpg.php` | Remote command execution tool |
 | Upload Directory | `/uploads/` | Web-accessible executable directory |
 
 ---
