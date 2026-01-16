@@ -8,7 +8,7 @@ a compromised web application and post-exploitation network activity.
 - Insecure file upload via `/reviews/upload.php`
 - Malicious PHP file disguised as an image (`image.jpg.php`)
 - Web-accessible and executable `/uploads/` directory
-- Outbound command-and-control traffic on TCP port 4444
+- Outbound command-and-control traffic on TCP port 8080
 - Attempted access to sensitive system files
 
 ## Tools Used
