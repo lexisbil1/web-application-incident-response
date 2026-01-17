@@ -12,7 +12,7 @@ approximate and recorded in GMT.
 | 18:43:50 | Suspicious User-Agent observed in HTTP requests |
 | 18:43:57 | Vulnerable file upload directory identified |
 | 18:44:19 | Malicious file upload request initiated |
-| 18:44:25 | Web shell (`c99.php`) successfully uploaded |
+| 18:44:25 | Web shell (`image.php.jpg`) successfully uploaded |
 | 18:44:35 | Web shell accessed via `/uploads/` directory |
 | 18:44:45 | Outbound reverse-shell traffic detected on TCP port 8080 |
 | 18:46:39 | Attempted access to sensitive system file `/etc/passwd` |
